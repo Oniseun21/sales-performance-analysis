@@ -32,3 +32,7 @@ business decisions.
 
 ## Author
 Oluwaseun Oni
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
