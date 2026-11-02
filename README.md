@@ -35,4 +35,4 @@ Oluwaseun Oni
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](./sales-performance-analysis.png)
