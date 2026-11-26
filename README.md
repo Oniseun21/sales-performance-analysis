@@ -36,3 +36,21 @@ Oluwaseun Oni
 ## Dashboard Preview
 
 ![Sales Performance Dashboard](./sales-performance-analysis.png)
+
+## SQL Analysis
+
+SQL was used to analyse sales performance, customer behaviour, product profitability, regional sales, and monthly trends.
+
+### SQL Queries
+- Overall Business KPIs
+- Product Performance
+- Category Performance
+- Regional Performance
+- Monthly Sales Trends
+- Payment Method Analysis
+- Top Customers
+- Repeat Customers
+- Product Profitability
+- Data Quality Checks
+
+[View SQL Queries](./SQL/sales_analysis.sql)
