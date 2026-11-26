@@ -88,3 +88,19 @@ SQL was used to analyse sales performance, customer behaviour, product profitabi
 3. Review lower-performing products to determine whether pricing, marketing, or inventory adjustments are needed.
 4. Focus marketing efforts on regions with growth potential.
 5. Monitor product profit rates to ensure revenue growth translates into profitability.
+
+
+## Excel Data Cleaning
+
+Microsoft Excel was used to prepare the raw sales dataset for analysis.
+
+### Data Cleaning Operations
+
+1. **Duplicate Removal:** Identified and removed duplicate records to improve data consistency.
+2. **Missing Value Handling:** Replaced missing values with "Nil".
+3. **Data Type Correction:** Corrected data types to ensure values were properly formatted.
+4. **Date Formatting:** Standardized date formats to support accurate time-based analysis.
+
+### Excel Deliverables
+- Original raw sales dataset.
+- Cleaned sales dataset.
