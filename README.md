@@ -104,3 +104,12 @@ Microsoft Excel was used to prepare the raw sales dataset for analysis.
 ### Excel Deliverables
 - Original raw sales dataset.
 - Cleaned sales dataset.
+
+
+## Excel Files
+
+The Excel component of this project includes the original sales dataset and the cleaned dataset.
+
+- [Original Sales Dataset](./Excel/sales_performance_raw_dataset.xlsx)
+- [Cleaned Sales Dataset](./Excel/sales_performance_cleaned.xlsx)
+- [Excel Data Cleaning Documentation](./Excel/README.md)
